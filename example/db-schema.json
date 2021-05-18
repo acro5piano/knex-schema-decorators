@@ -1,0 +1,22 @@
+[
+  {
+    "tableName": "users",
+    "columns": [
+      {
+        "columnName": "id"
+      },
+      {
+        "columnName": "name"
+      },
+      {
+        "columnName": "isDeleted"
+      },
+      {
+        "columnName": "status"
+      },
+      {
+        "columnName": "createdAt"
+      }
+    ]
+  }
+]
