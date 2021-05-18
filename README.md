@@ -1,6 +1,6 @@
 # migration-decorators
 
-Schema-first migration generator for Knex
+wip: Schema-first migration generator for Knex
 
 # Example
 
